@@ -1,0 +1,78 @@
+<mockup version="1.0" skin="sketch" measuredW="513" measuredH="449" mockupW="453" mockupH="429">
+  <controls>
+    <control controlID="656" controlTypeID="com.balsamiq.mockups::Canvas" x="60" y="20" w="453" h="429" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="657" controlTypeID="com.balsamiq.mockups::Image" x="75" y="135" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="658" controlTypeID="com.balsamiq.mockups::Title" x="73" y="33" w="-1" h="-1" measuredW="99" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Story%20Title</text>
+      </controlProperties>
+    </control>
+    <control controlID="659" controlTypeID="com.balsamiq.mockups::Title" x="75" y="65" w="-1" h="-1" measuredW="282" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>false</bold>
+        <size>14</size>
+        <text>As%20a%20user%20I%20want%20to%20%5B%20%20%20%20%20%20%20%20%20%20%20%5D%20so%20I%20can%20%5B%20%20%20%20%20%20%20%20%20%20%20%20%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="660" controlTypeID="com.balsamiq.mockups::Image" x="171" y="134" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="661" controlTypeID="com.balsamiq.mockups::Title" x="75" y="104" w="-1" h="-1" measuredW="93" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Wireframes</text>
+      </controlProperties>
+    </control>
+    <control controlID="662" controlTypeID="com.balsamiq.mockups::Title" x="75" y="325" w="167" h="-1" measuredW="151" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Acceptance%20criteria</text>
+      </controlProperties>
+    </control>
+    <control controlID="664" controlTypeID="com.balsamiq.mockups::Paragraph" x="65" y="355" w="395" h="67" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*%20When%20the%20user%20%5B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5D%20does%20the%20system%20%5B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5D%20%3F%0A*%20If%20the%20user%20%5B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5D%20does%20%5B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5D%20happen%20%3F%0A*%20When%20the%20user%20%5B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5D%20does%20the%20user%20see%20%5B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5D%20%3F%0A*%20When%20the%20user%20%5B%20%20%20%20%5D%20does%20the%20system%20%5B%20%20%20%5D%20within%20%5B%20%20%20%5D%20constraints%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="665" controlTypeID="com.balsamiq.mockups::Arrow" x="133" y="166" w="62" h="16" measuredW="150" measuredH="100" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+      </controlProperties>
+    </control>
+    <control controlID="666" controlTypeID="com.balsamiq.mockups::Image" x="172" y="229" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="667" controlTypeID="com.balsamiq.mockups::Image" x="75" y="228" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="668" controlTypeID="com.balsamiq.mockups::Arrow" x="198" y="201" w="35" h="45" measuredW="150" measuredH="100" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="669" controlTypeID="com.balsamiq.mockups::Arrow" x="138" y="245" w="49" h="34" measuredW="150" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="670" controlTypeID="com.balsamiq.mockups::Arrow" x="98" y="200" w="29" h="43" measuredW="150" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
