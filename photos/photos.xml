@@ -1,0 +1,28 @@
+<mockup version="1.0" skin="sketch" measuredW="337" measuredH="521" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::iPhone" x="55" y="11" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <topBar>false</topBar>
+      </controlProperties>
+    </control>
+    <control controlID="445" controlTypeID="com.balsamiq.mockups::Webcam" x="83" y="89" w="227" h="354" measuredW="177" measuredH="146" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="446" controlTypeID="com.balsamiq.mockups::Icon" x="187" y="404" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CameraIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="447" controlTypeID="com.balsamiq.mockups::Canvas" x="83" y="397" w="227" h="46" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="451" controlTypeID="com.balsamiq.mockups::MultilineButton" x="174" y="401" w="48" h="37" measuredW="33" measuredH="35" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
