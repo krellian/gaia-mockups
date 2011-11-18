@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1214" measuredH="2245" mockupW="1195" mockupH="2225">
+<mockup version="1.0" skin="sketch" measuredW="1214" measuredH="2846" mockupW="1204" mockupH="2826">
   <controls>
     <control controlID="701" controlTypeID="com.balsamiq.mockups::iPhone" x="28" y="20" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
     <control controlID="702" controlTypeID="com.balsamiq.mockups::TabBar" x="58" y="118" w="223" h="327" measuredW="276" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
@@ -338,6 +338,129 @@
     <control controlID="793" controlTypeID="com.balsamiq.mockups::Title" x="434" y="1899" w="-1" h="-1" measuredW="130" measuredH="50" zOrder="69" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Google</text>
+      </controlProperties>
+    </control>
+    <control controlID="794" controlTypeID="com.balsamiq.mockups::iPhone" x="34" y="2336" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="73" locked="false" isInGroup="-1"/>
+    <control controlID="795" controlTypeID="com.balsamiq.mockups::TabBar" x="64" y="2433" w="223" h="327" measuredW="276" measuredH="100" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>%20%20%20%20Google%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="796" controlTypeID="com.balsamiq.mockups::Icon" x="91" y="2438" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GoogleIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="797" controlTypeID="com.balsamiq.mockups::TextInput" x="98" y="2554" w="153" h="-1" measuredW="79" measuredH="27" zOrder="76" locked="false" isInGroup="-1"/>
+    <control controlID="798" controlTypeID="com.balsamiq.mockups::Title" x="107" y="2500" w="-1" h="-1" measuredW="130" measuredH="50" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Google</text>
+      </controlProperties>
+    </control>
+    <control controlID="800" controlTypeID="com.balsamiq.mockups::Button" x="145" y="2596" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="78" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="801" controlTypeID="com.balsamiq.mockups::Title" x="28" y="2279" w="-1" h="-1" measuredW="289" measuredH="50" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Back%20%26%20Forward</text>
+      </controlProperties>
+    </control>
+    <control controlID="802" controlTypeID="com.balsamiq.mockups::Button" x="64" y="2733" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="803" controlTypeID="com.balsamiq.mockups::Button" x="233" y="2732" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="81" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="804" controlTypeID="com.balsamiq.mockups::RoundButton" x="76" y="2733" w="24" h="25" measuredW="32" measuredH="32" zOrder="82" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderColor>16370588</borderColor>
+        <color>16370588</color>
+      </controlProperties>
+    </control>
+    <control controlID="805" controlTypeID="com.balsamiq.mockups::Arrow" x="10" y="2718" w="66" h="10" measuredW="150" measuredH="100" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="806" controlTypeID="com.balsamiq.mockups::RoundButton" x="253" y="2733" w="24" h="25" measuredW="32" measuredH="32" zOrder="84" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderColor>16370588</borderColor>
+        <color>16370588</color>
+      </controlProperties>
+    </control>
+    <control controlID="807" controlTypeID="com.balsamiq.mockups::iPhone" x="354" y="2336" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="85" locked="false" isInGroup="-1"/>
+    <control controlID="808" controlTypeID="com.balsamiq.mockups::TabBar" x="384" y="2434" w="223" h="327" measuredW="268" measuredH="100" zOrder="86" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>%20%20%20%20%20Google%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="810" controlTypeID="com.balsamiq.mockups::Icon" x="412" y="2440" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="90" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GoogleIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="811" controlTypeID="com.balsamiq.mockups::Canvas" x="464" y="2433" w="147" h="328" measuredW="100" measuredH="70" zOrder="91" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="813" controlTypeID="com.balsamiq.mockups::IconLabel" x="491" y="2444" w="-1" h="-1" measuredW="87" measuredH="32" zOrder="92" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <icon>RightArrowIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <text>Forward</text>
+      </controlProperties>
+    </control>
+    <control controlID="818" controlTypeID="com.balsamiq.mockups::RoundButton" x="538" y="2449" w="24" h="25" measuredW="32" measuredH="32" zOrder="93" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderColor>16370588</borderColor>
+        <color>16370588</color>
+      </controlProperties>
+    </control>
+    <control controlID="819" controlTypeID="com.balsamiq.mockups::Arrow" x="555" y="2451" w="97" h="10" measuredW="150" measuredH="100" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="820" controlTypeID="com.balsamiq.mockups::Arrow" x="265" y="2554" w="196" h="181" measuredW="150" measuredH="100" zOrder="95" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="821" controlTypeID="com.balsamiq.mockups::TextInput" x="418" y="2554" w="153" h="-1" measuredW="79" measuredH="27" zOrder="87" locked="false" isInGroup="-1"/>
+    <control controlID="822" controlTypeID="com.balsamiq.mockups::Title" x="427" y="2500" w="-1" h="-1" measuredW="130" measuredH="50" zOrder="88" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Google</text>
+      </controlProperties>
+    </control>
+    <control controlID="823" controlTypeID="com.balsamiq.mockups::Button" x="465" y="2596" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="89" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
       </controlProperties>
     </control>
   </controls>
