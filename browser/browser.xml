@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1214" measuredH="1084" mockupW="1186" mockupH="1064">
+<mockup version="1.0" skin="sketch" measuredW="1214" measuredH="2245" mockupW="1195" mockupH="2225">
   <controls>
     <control controlID="701" controlTypeID="com.balsamiq.mockups::iPhone" x="28" y="20" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
     <control controlID="702" controlTypeID="com.balsamiq.mockups::TabBar" x="58" y="118" w="223" h="327" measuredW="276" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
@@ -206,6 +206,138 @@
     <control controlID="754" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="668" y="902" w="200" h="-1" measuredW="215" measuredH="97" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Preferences%0AAddons%0AQuit</text>
+      </controlProperties>
+    </control>
+    <control controlID="755" controlTypeID="com.balsamiq.mockups::Title" x="19" y="1125" w="-1" h="-1" measuredW="298" measuredH="50" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Navigate%20to%20URL</text>
+      </controlProperties>
+    </control>
+    <control controlID="756" controlTypeID="com.balsamiq.mockups::iPhone" x="34" y="1190" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="45" locked="false" isInGroup="-1"/>
+    <control controlID="757" controlTypeID="com.balsamiq.mockups::TabBar" x="64" y="1285" w="223" h="327" measuredW="284" measuredH="100" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>%20%20%20%20%20Mozilla%20Start%20Page%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="759" controlTypeID="com.balsamiq.mockups::Icon" x="91" y="1292" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>WorldIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="760" controlTypeID="com.balsamiq.mockups::iPhone" x="354" y="1190" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="48" locked="false" isInGroup="-1"/>
+    <control controlID="761" controlTypeID="com.balsamiq.mockups::TextInput" x="383" y="1290" w="219" h="-1" measuredW="159" measuredH="27" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%7CEnter%20search%20or%20address</text>
+      </controlProperties>
+    </control>
+    <control controlID="764" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="381" y="1455" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="50" locked="false" isInGroup="-1"/>
+    <control controlID="765" controlTypeID="com.balsamiq.mockups::RoundButton" x="145" y="1289" w="24" h="25" measuredW="32" measuredH="32" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <color>16370588</color>
+      </controlProperties>
+    </control>
+    <control controlID="766" controlTypeID="com.balsamiq.mockups::RoundButton" x="549" y="1540" w="24" h="25" measuredW="32" measuredH="32" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <color>16370588</color>
+      </controlProperties>
+    </control>
+    <control controlID="767" controlTypeID="com.balsamiq.mockups::Arrow" x="160" y="1236" w="201" h="64" measuredW="150" measuredH="100" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="768" controlTypeID="com.balsamiq.mockups::iPhone" x="34" y="1735" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="54" locked="false" isInGroup="-1"/>
+    <control controlID="769" controlTypeID="com.balsamiq.mockups::TabBar" x="64" y="1832" w="223" h="327" measuredW="276" measuredH="100" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>%20%20%20%20Google%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="771" controlTypeID="com.balsamiq.mockups::Icon" x="91" y="1837" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ReloadIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="776" controlTypeID="com.balsamiq.mockups::iPhone" x="665" y="1196" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="57" locked="false" isInGroup="-1"/>
+    <control controlID="777" controlTypeID="com.balsamiq.mockups::TextInput" x="694" y="1296" w="219" h="-1" measuredW="109" measuredH="27" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>www.google.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="778" controlTypeID="com.balsamiq.mockups::iPhoneKeyboard" x="692" y="1461" w="-1" h="-1" measuredW="227" measuredH="160" zOrder="59" locked="false" isInGroup="-1"/>
+    <control controlID="779" controlTypeID="com.balsamiq.mockups::RoundButton" x="884" y="1586" w="24" h="25" measuredW="32" measuredH="32" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <color>16370588</color>
+      </controlProperties>
+    </control>
+    <control controlID="780" controlTypeID="com.balsamiq.mockups::Arrow" x="573" y="1317" w="136" h="230" measuredW="150" measuredH="100" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="781" controlTypeID="com.balsamiq.mockups::Arrow" x="295" y="1602" w="589" h="146" measuredW="150" measuredH="100" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="782" controlTypeID="com.balsamiq.mockups::StickyNote" x="46" y="1862" w="114" h="91" measuredW="109" measuredH="123" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Loading%20animation...</text>
+      </controlProperties>
+    </control>
+    <control controlID="783" controlTypeID="com.balsamiq.mockups::StickyNote" x="310" y="1308" w="107" h="108" measuredW="109" measuredH="123" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Title%20turns%20into%20URL/text%20entry%20box</text>
+      </controlProperties>
+    </control>
+    <control controlID="784" controlTypeID="com.balsamiq.mockups::iPhone" x="361" y="1735" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="65" locked="false" isInGroup="-1"/>
+    <control controlID="785" controlTypeID="com.balsamiq.mockups::TabBar" x="391" y="1832" w="223" h="327" measuredW="276" measuredH="100" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>%20%20%20%20Google%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="786" controlTypeID="com.balsamiq.mockups::Icon" x="418" y="1837" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GoogleIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="787" controlTypeID="com.balsamiq.mockups::StickyNote" x="373" y="1864" w="114" h="104" measuredW="109" measuredH="123" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>...turns%20into%20favicon%20once%20loaded</text>
+      </controlProperties>
+    </control>
+    <control controlID="789" controlTypeID="com.balsamiq.mockups::Arrow" x="132" y="1919" w="259" h="10" measuredW="150" measuredH="100" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="791" controlTypeID="com.balsamiq.mockups::TextInput" x="425" y="1953" w="153" h="-1" measuredW="79" measuredH="27" zOrder="68" locked="false" isInGroup="-1"/>
+    <control controlID="792" controlTypeID="com.balsamiq.mockups::Button" x="472" y="1995" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="793" controlTypeID="com.balsamiq.mockups::Title" x="434" y="1899" w="-1" h="-1" measuredW="130" measuredH="50" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Google</text>
       </controlProperties>
     </control>
   </controls>
